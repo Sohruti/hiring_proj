@@ -1,0 +1,16 @@
+# Terraform local state and local inputs
+infra/.terraform/
+infra/*.tfstate
+infra/*.tfstate.*
+infra/terraform.tfvars
+
+# Python local artifacts
+student_onboarding/.venv/
+student_onboarding/.ruff_cache/
+student_onboarding/db.sqlite3
+student_onboarding/**/__pycache__/
+student_onboarding/**/*.py[cod]
+
+# Delivery archive and operating system files
+/habbot_assignment_submission.zip
+.DS_Store

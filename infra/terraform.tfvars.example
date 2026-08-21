@@ -1,0 +1,11 @@
+# Copy this file to terraform.tfvars and replace example values.
+# Do not commit terraform.tfvars when it contains real environment details.
+
+project_id                = "replace-with-your-gcp-project-id"
+region                    = "us-central1"
+environment               = "dev"
+raw_bucket_name           = "replace-with-a-globally-unique-d0-raw-bucket"
+dataset_id                = "d1_staged_enforced"
+ingest_service_account_id = "student-ingest"
+consumer_group            = "data-consumers@example.com"
+consumer_tenant_code      = "TENANT_A"

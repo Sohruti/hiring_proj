@@ -1,0 +1,4 @@
+title = "Student onboarding assignment secret scanning"
+
+[extend]
+useDefault = true
