@@ -2,7 +2,7 @@
 
 This repository contains a deliberately small implementation of three assignment tasks: Terraform for a basic GCP data landing/staging design, a fail-closed GitHub Actions quality gate, and a minimal Django REST Framework (DRF) onboarding API. It is a **demonstration project**, not a production system. It has no frontend, containers, Kubernetes, remote Terraform backend, production deployment, real credentials, or unnecessary cloud services.
 
-## Repository layout
+## Repository layout 
 
 ```text
 .

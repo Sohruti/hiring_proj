@@ -9,3 +9,4 @@ dataset_id                = "d1_staged_enforced"
 ingest_service_account_id = "student-ingest"
 consumer_group            = "data-consumers@example.com"
 consumer_tenant_code      = "TENANT_A"
+ 
